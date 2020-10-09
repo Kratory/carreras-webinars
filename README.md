@@ -1,7 +1,7 @@
 # **_SEGUIMIENTO CARRERAS OPENWEBINARS_**
 _Proyecto de git para seguimiento del progreso en carreras webinars._
 
-1. **_DOCKER DEVOPS PROFESIONAL_**
+##**_DOCKER DEVOPS PROFESIONAL_**
   - [X] **_INTRODUCCIÓN A DOCKER_**
        - [X] *Introducción e instalación de Docker*
        - [X] *Imágenes y contenedores*
@@ -19,7 +19,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [ ] *Docker en producción*
        - [ ] *__Examen aprobado__*
        
-1. **_ESPECIALISTA EN AUTOMATIZACIÓN DevOPS_**
+##**_ESPECIALISTA EN AUTOMATIZACIÓN DevOPS_**
   - [ ] **_FUNDAMENTOS GENERALES: ORQUESTACIÓN Y AUTOMATIZACIÓN IT_**
        - [ ] *Introducción*
        - [ ] *Automatización*
