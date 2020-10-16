@@ -15,7 +15,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Arquitectura de microservicios*
        - [X] *Construcción de imágenes*
        - [X] *Desarrollo con contenedores*
-       - [ ] *Integración continua*
+       - [X] *Integración continua*
        - [ ] *Docker en producción*
        - [ ] *__Examen aprobado__*
    
