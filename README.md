@@ -24,10 +24,10 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
    
 ## **_ESPECIALISTA EN AUTOMATIZACIÓN DevOPS_**
   - [ ] **_FUNDAMENTOS GENERALES: ORQUESTACIÓN Y AUTOMATIZACIÓN IT_**
-       - [ ] *Introducción*
-       - [ ] *Automatización*
-       - [ ] *Orquestación*
-       - [ ] *Conclusiones*
+       - [X] *Introducción*
+       - [X] *Automatización*
+       - [X] *Orquestación*
+       - [X] *Conclusiones*
        - [ ] *__Examen aprobado__*
   - [ ] **_SSH_**
        - [ ] *Introducción*
