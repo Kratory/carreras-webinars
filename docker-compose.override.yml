@@ -1,0 +1,8 @@
+# docker-compose.override para la re-configuración de red del contenedor proxy de cvat.
+version: "3.3"
+
+services:
+  cvat_proxy:
+    environment:
+      CVAT_HOST: 192.168.10.*
+      no_proxy: 0
