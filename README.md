@@ -16,7 +16,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Construcción de imágenes*
        - [X] *Desarrollo con contenedores*
        - [X] *Integración continua*
-       - [ ] *Docker en producción*
+       - [X] *Docker en producción*
        - [ ] *__Examen aprobado__*
    
    
