@@ -10,14 +10,14 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Almacenamiento en Docker*
        - [X] *__Examen aprobado__*
        
-  - [ ] **__DOCKER PARA DESARROLLADORES__**
+  - [X] **__DOCKER PARA DESARROLLADORES__**
        - [X] *Introducción a Docker*
        - [X] *Arquitectura de microservicios*
        - [X] *Construcción de imágenes*
        - [X] *Desarrollo con contenedores*
        - [X] *Integración continua*
        - [X] *Docker en producción*
-       - [ ] *__Examen aprobado__*
+       - [X] *__Examen aprobado__*
    
    
    
