@@ -30,7 +30,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Conclusiones*
        - [ ] *__Examen aprobado__*
   - [ ] **_SSH_**
-       - [ ] *Introducción*
+       - [X] *Introducción*
        - [ ] *Instalación entorno de pruebas*
        - [ ] *Utilización de SSH*
        - [ ] *Configuración de SSH*
