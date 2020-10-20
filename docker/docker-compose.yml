@@ -63,6 +63,10 @@ services:
       - type: bind
         source: D:/
         target: /home/django/share
+     deploy:
+        resources:
+          limits:
+            cpus: 5 # Allow this container to use 6 cores.
 
   cvat_ui:
     container_name: cvat_ui
