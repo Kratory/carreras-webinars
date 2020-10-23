@@ -33,7 +33,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Introducción*
        - [X] *Instalación entorno de pruebas*
        - [X] *Utilización de SSH*
-       - [ ] *Configuración de SSH*
+       - [X] *Configuración de SSH*
        - [ ] *Transferencia de ficheros a través de SSH*
        - [ ] *Túneles SSH*
        - [ ] *SSH en Windows*
