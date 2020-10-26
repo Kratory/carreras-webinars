@@ -29,15 +29,15 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Orquestación*
        - [X] *Conclusiones*
        - [X] *__Examen aprobado__*
-  - [ ] **_SSH_**
+  - [X] **_SSH_**
        - [X] *Introducción*
        - [X] *Instalación entorno de pruebas*
        - [X] *Utilización de SSH*
        - [X] *Configuración de SSH*
-       - [ ] *Transferencia de ficheros a través de SSH*
-       - [ ] *Túneles SSH*
-       - [ ] *SSH en Windows*
-       - [ ] *__Examen aprobado__*
+       - [X] *Transferencia de ficheros a través de SSH*
+       - [X] *Túneles SSH*
+       - [X] *SSH en Windows*
+       - [X] *__Examen aprobado__*
   - [ ] **_ANSIBLE_**
        - [ ] *Introducción*
        - [ ] *Instalación y configuración del entorno*
