@@ -50,7 +50,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [ ] *__Examen aprobado__*
   - [ ] **_VAGRANT_**
        - [X] *Introducción*
-       - [ ] *Uso de Vagrant*
+       - [X] *Uso de Vagrant*
        - [ ] *Conceptos avanzados*
   - [ ] **_VAGRANT PARA DESARROLLADORES_**
        - [ ] *Introducción*
