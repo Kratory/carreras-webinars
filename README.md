@@ -53,7 +53,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Uso de Vagrant*
        - [X] *Conceptos avanzados*
        - [X] *__Examen aprobado__*
-  - [ ] **_VAGRANT PARA DESARROLLADORES_**
+  - [X] **_VAGRANT PARA DESARROLLADORES_**
        - [X] *Introducción*
        - [X] *Maquinas virtuales*
        - [X] *Instalación, configuración y arranque de Vagrant*
@@ -61,8 +61,8 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Provisión automática de la infraestructura*
        - [X] *Networking con Vagrant*
        - [X] *Clusters con Vagrant*
-       - [ ] *Boxes*
-       - [ ] *__Examen aprobado__*
+       - [X] *Boxes*
+       - [X] *__Examen aprobado__*
   - [ ] **_TERRAFORM_**
        - [ ] *Introducción*
        - [ ] *Providers*
