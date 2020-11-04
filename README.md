@@ -59,7 +59,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Instalación, configuración y arranque de Vagrant*
        - [X] *Vagrant a vista de pájaro*
        - [X] *Provisión automática de la infraestructura*
-       - [ ] *Networking con Vagrant*
+       - [X] *Networking con Vagrant*
        - [ ] *Clusters con Vagrant*
        - [ ] *Boxes*
        - [ ] *__Examen aprobado__*
