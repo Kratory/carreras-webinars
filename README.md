@@ -71,5 +71,5 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Desarrollo de una plantilla compleja de Terraform*
        - [X] *Conceptos avanzados*
        - [X] *Otros providers*
-       - [ ] *Packer*
+       - [X] *Packer*
        - [ ] *__Examen aprobado__*
