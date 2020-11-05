@@ -65,7 +65,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *__Examen aprobado__*
   - [ ] **_TERRAFORM_**
        - [X] *Introducción*
-       - [ ] *Providers*
+       - [X] *Providers*
        - [ ] *Desarrollo de una plantilla básica de Terraform*
        - [ ] *Importar recursos existentes*
        - [ ] *Desarrollo de una plantilla compleja de Terraform*
