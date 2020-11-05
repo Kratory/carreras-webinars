@@ -63,7 +63,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Clusters con Vagrant*
        - [X] *Boxes*
        - [X] *__Examen aprobado__*
-  - [ ] **_TERRAFORM_**
+  - [X] **_TERRAFORM_**
        - [X] *Introducción*
        - [X] *Providers*
        - [X] *Desarrollo de una plantilla básica de Terraform*
