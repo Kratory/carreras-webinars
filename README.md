@@ -39,7 +39,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *SSH en Windows*
        - [X] *__Examen aprobado__*
   - [ ] **_ANSIBLE_**
-       - [ ] *Introducción*
+       - [X] *Introducción*
        - [ ] *Instalación y configuración del entorno*
        - [ ] *Primeros comandos*
        - [ ] *Ansible playbooks*
