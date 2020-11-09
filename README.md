@@ -41,7 +41,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
   - [ ] **_ANSIBLE_**
        - [X] *Introducción*
        - [X] *Instalación y configuración del entorno*
-       - [ ] *Primeros comandos*
+       - [X] *Primeros comandos*
        - [ ] *Ansible playbooks*
        - [ ] *Inventarios*
        - [ ] *Roles e includes*
