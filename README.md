@@ -38,7 +38,7 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Túneles SSH*
        - [X] *SSH en Windows*
        - [X] *__Examen aprobado__*
-  - [ ] **_ANSIBLE_**
+  - [X] **_ANSIBLE_**
        - [X] *Introducción*
        - [X] *Instalación y configuración del entorno*
        - [X] *Primeros comandos*
