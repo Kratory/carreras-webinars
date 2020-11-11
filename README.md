@@ -71,4 +71,4 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Conceptos avanzados*
        - [X] *Otros providers*
        - [X] *Packer*
-       - [ ] *__Examen aprobado__*
+       - [X] *__Examen aprobado__*
