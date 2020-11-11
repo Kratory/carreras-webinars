@@ -45,8 +45,8 @@ _Proyecto de git para seguimiento del progreso en carreras webinars._
        - [X] *Ansible playbooks*
        - [X] *Inventarios*
        - [X] *Roles e includes*
-       - [ ] *Ejercicio práctico*
-       - [ ] *__Examen aprobado__*
+       - [X] *Ejercicio práctico*
+       - [X] *__Examen aprobado__*
   - [X] **_VAGRANT_**
        - [X] *Introducción*
        - [X] *Uso de Vagrant*
